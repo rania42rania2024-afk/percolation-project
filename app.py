@@ -1,3 +1,6 @@
+import streamlit as st
+st.title("percolation simulation")
+st.write("interactive python simulation of percolation models")
 import numpy as np
 import matplotlib.pyplot as plt
 
